@@ -29,6 +29,8 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 ![Screenshot 2024-10-26 105221](https://github.com/user-attachments/assets/4c61d24e-ad6a-465c-a485-f328b71513a7)
 7. add the attributesin the end device as  shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+![image](https://github.com/user-attachments/assets/017c5906-86c4-4d87-9661-dc8243329df3)
+
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
