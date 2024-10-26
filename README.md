@@ -23,12 +23,11 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 ![Screenshot 2024-10-26 102113](https://github.com/user-attachments/assets/c86229d5-e776-4f8c-b490-f7dd18486293)
  3. click on the add gateway 
 ![Screenshot 2024-10-26 104840](https://github.com/user-attachments/assets/e4764584-211b-4044-b280-7aa6254c9b45)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
-6. add the attributesin the end device as  shown below 
+![Screenshot 2024-10-26 105158](https://github.com/user-attachments/assets/2850ed3f-3d03-4c61-baf0-a629061313e5)
+![Screenshot 2024-10-26 105221](https://github.com/user-attachments/assets/4c61d24e-ad6a-465c-a485-f328b71513a7)
+7. add the attributesin the end device as  shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
@@ -47,7 +46,7 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![image](https://github.com/user-attachments/assets/88029de2-d380-4beb-80db-5cf1da2b0fde)
 
 
 
